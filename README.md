@@ -1,6 +1,6 @@
 Preparing for a **DevOps interview** or **SRE interview** in 2026? I'm Alex, a DevOps/Software Engineer who interviewed at **50+ companies** including Google, Amazon, Apple, Meta, and other FAANG/Big Tech firms, for **DevOps Engineer and Site Reliability Engineer (SRE) roles**. I collected every **hands-on interview question** I was asked, plus questions sourced from Glassdoor, Blind, and engineering blogs. This repo contains **115 real DevOps interview questions with solutions** covering **Kubernetes, Docker, Linux, CI/CD (GitHub Actions), Networking, Git, Security, and AWS Cloud**, each with a **step-by-step video walkthrough** showing exactly how to solve it.
 
-Regardless if you prepare for junior DevOps interview, senior SRE technical screen, or a platform engineer role - these questions will substantially increase your chanses to pass. Star the repo if it helps, it helps others discover it too.
+Regardless if you prepare for junior DevOps interview, senior SRE technical screen, or a platform engineer role - these questions will substantially increase your chances to pass. Star the repo if it helps, it helps others discover it too.
 
 <p align="center">
   <img src="pht.png" alt="DevOps Interview Questions and Answers - Kubernetes, Docker, Linux, AWS, CI/CD"/>
